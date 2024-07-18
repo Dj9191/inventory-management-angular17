@@ -1,0 +1,90 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "name": "HP"
+    },
+    {
+      "id": 2,
+      "name": "Lenovo"
+    },
+    {
+      "id": 3,
+      "name": "Pumaa"
+    },
+    {
+      "name": "LG",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Peter England"
+    },
+    {
+      "id": 6,
+      "name": "ttt"
+    },
+    {
+      "id": 7,
+      "name": "Roastersss"
+    }
+  ],
+  "products": [
+    {
+      "name": "cdc",
+      "details": "dwd",
+      "brandId": 5,
+      "purchasePrice": 45,
+      "salePrice": 33,
+      "availableQuantity": 3,
+      "id": "XFbYIJi"
+    },
+    {
+      "name": "dd",
+      "details": "w",
+      "brandId": 4,
+      "purchasePrice": 50000,
+      "salePrice": 12000,
+      "availableQuantity": 8,
+      "id": "BopWh5-"
+    },
+    {
+      "name": "d",
+      "details": "d",
+      "brandId": 1,
+      "purchasePrice": 1234,
+      "salePrice": 1000,
+      "availableQuantity": 67,
+      "id": "ukKqLbI"
+    }
+  ],
+  "orders": [
+    {
+      "orderNo": "C123",
+      "productId": "BopWh5-",
+      "quantity": "15",
+      "salePrice": 12000,
+      "discount": "5000",
+      "totalAmount": 175000,
+      "id": "Z2r1dNR"
+    },
+    {
+      "orderNo": "dffd",
+      "productId": "XFbYIJi",
+      "quantity": "2",
+      "salePrice": 33,
+      "discount": "10",
+      "totalAmount": 56,
+      "id": "XE7AbAV"
+    },
+    {
+      "orderNo": "zx",
+      "productId": "BopWh5-",
+      "quantity": "12",
+      "salePrice": "1200",
+      "discount": "12",
+      "totalAmount": 143988,
+      "id": "SaECrx6"
+    }
+  ]
+}
